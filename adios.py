@@ -1,0 +1,2 @@
+print ("Adios mundo cruel")
+
